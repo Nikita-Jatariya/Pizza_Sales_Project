@@ -13,6 +13,7 @@ This project involves analyzing a pizza sales dataset using SQL to derive meanin
 
 ## Dataset Description
 Dataset used: https://github.com/Nikita-Jatariya/Pizza_Sales_Project/blob/main/pizza_sales.zip
+
 The dataset contains the following tables:
 - orders: Contains order IDs and order date/time.
 - order_details: Links orders to specific pizzas and their quantities.
